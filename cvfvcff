@@ -1,0 +1,312 @@
+#EXTM3U
+
+#EXTINF:-1, Canal 10 Chetumal | HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1, Milenio | SD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+ 
+#EXTINF:-1, Canal 4 | SD
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1, RCG | SD
+http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
+ 
+#EXTINF:-1, RCG 2 | SD
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+
+#EXTINF:-1, Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1,MEXICO:RCG 1 Saltillo
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+
+#EXTINF:-1, WOW TV | SD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1, Camara de Diputados (DVR) | SD
+http://camara.02.cl.cdnz.cl/cdndvr/ngrp:live_all/playlist.m3u8?DVR
+
+#EXTINF:-1, Weather Nation | HD
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1, Bloomberg TV US | HD
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1, Bloomberg TV Europe | HD
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+ 
+#EXTINF:-1, Bloomberg TV Europe | HD
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+
+#EXTINF:-1, directv sport
+https://e2.stephn.xyz/ingest013/67118.m3u8?sf=UkxmY0lVaHNBRA==&token=RBQCvAOxbR6Xi1O7JAwdUg&ex
+ 
+#EXTINF:-1, Bloomberg TV Asia | HD
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+ 
+#EXTINF:-1, Bloomberg TV Australia | HD
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+ 
+#EXTINF:-1, Bloomberg TV Politics Live Event | HD
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
+ 
+#EXTINF:-1, Bloomberg TV US Live Event | HD
+https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
+ 
+#EXTINF:-1, Bloomberg TV EMEA Live Event | HD
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
+ 
+#EXTINF:-1, Bloomberg TV Asia Live Event | HD
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
+
+#EXTINF:-1, France 24 | HD
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+ 
+#EXTINF:-1, Arirang | HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+ 
+#EXTINF:-1, NOTV 41 New Orleans - Louisiana | HD
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+
+#EXTINF:-1, CBS News | HD
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+ 
+#EXTINF:-1, TV Peru (Alt) | SD
+http://cdnh4.iblups.com/hls/irtp.m3u8
+ 
+#EXTINF:-1, Ovacion | SD
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+ 
+#EXTINF:-1, Central TV | SD
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+ 
+#EXTINF:-1, Turbo Mix Radio TV | SD
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
+ 
+#EXTINF:-1, Teleceiba Canal 7 | SD
+http://190.11.224.14:8134/liveevent.m3u8
+
+#EXTINF:-1, La Liga | SD
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_1_av-p.m3u8?sd=10&rebase=on 
+
+#EXTINF:-1, TV Peru (Alt) | SD
+http://cdnh4.iblups.com/hls/irtp.m3u8
+ 
+#EXTINF:-1, Ovacion | SD
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+ 
+#EXTINF:-1, Central TV | SD
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+ 
+#EXTINF:-1, Turbo Mix Radio TV | SD
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
+ 
+#EXTINF:-1, Teleceiba Canal 7 | SD
+http://190.11.224.14:8134/liveevent.m3u8
+
+#EXTINF:-1, TEN Honduras | HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
+
+#EXTINF:-1, Real Madrid TV | SD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+ 
+#EXTINF:-1, Lancelot TV | SD
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+ 
+#EXTINF:-1, ETBSAT | SD
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+ 
+#EXTINF:-1, Lebrija TV | SD
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+
+#EXTINF:-1, TV Galicia America | SD
+http://america-crtvg.flumotion.com/playlist.m3u8
+ 
+#EXTINF:-1, TV Galicia Europa | SD
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1, TeleSafor | HD
+http://video.telesafor.com/hls/video_high.m3u8
+ 
+#EXTINF:-1, 7TV | SD
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+ 
+#EXTINF:-1, Ticavision | SD
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+ 
+#EXTINF:-1, Tele Islas | SD
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+ 
+#EXTINF:-1, SBT | HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+ 
+#EXTINF:-1, Canal 26 | HD
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1, Power HD | HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+ 
+#EXTINF:-1, Canal Provincial | SD
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+ 
+#EXTINF:-1, Litus | HD
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+ 
+#EXTINF:-1, Radio 105 Network | HD
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:-1, Hit TV | SD
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+ 
+#EXTINF:-1, Retro TV | SD
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1, Radio Bruno (Italia) | SD
+http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+ 
+#EXTINF:-1, Radio Contact Feel Good | HD
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+
+#EXTINF:-1, UesTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+
+#EXTINF:-1, Canal 21 Chillán
+http://edge1.cl.grupoz.cl/canal21tv/live/chunklist_w148640593.m3u8
+ 
+#EXTINF:-1, PinguinoTV
+http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
+ 
+#EXTINF:-1, Gracia TV
+http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
+
+#EXTINF:-1, Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&amp;rebase=on?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1, INT TvPerú
+https://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
+ 
+#EXTINF:-1, FR France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+ 
+#EXTINF:-1, PE  IPe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+ 
+#EXTINF:-1,Multimedios (Mexico)
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+ 
+#EXTINF:-1, Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+ 
+#EXTINF:-1, TV Chile
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
+
+#EXTINF:-1, TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+ 
+#EXTINF:-1, UMAG TV
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+ 
+#EXTINF:-1, VTV
+http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
+ 
+#EXTINF:-1, VTV 2
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+
+#EXTINF:-1,100% Automoto (BG)
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+ 
+#EXTINF:-1,COLOMBIA:Canal Capital HD
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+
+#EXTINF:-1,MOVISTAR TRAVEL HD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+ 
+#EXTINF:-1,Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1,TV Canal Vasco
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+ 
+#EXTINF:-1,Multimedios
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,PERU
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/fa031ebffec61c74455052ea74e0522do.png",CULTURA 24 TV
+
+#EXTINF:-1,Canal Gol Perú
+https://ssl1.cdn4.us/ingest011/25647.m3u8?sf=MXZZS2NHRTNxNQ==&rnd=OQHHSRdaAK&token=dt5ip1VE35xRI_rwnqxYcQ&expires=1529780005
+
+ #EXTINF:-1,Fox Sports 3  
+https://espare.tk/live/1061.m3u8?token=9OQ10B5xM-9hjWAePGZP2w&expires=1608158707
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="LATIN AMERICA",CGTN Español (Opt-1)
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+
+#EXTINF:-1,Canal espn ar
+ https://espare.tk/live/1012.m3u8?token=vAwqNALd5oyXJiuZDl1_rw&expires=1608157768
+
+#EXTINF:-1, espn 3 mexico
+https://espare.tk/live/1065.m3u8?token=gxkQMj0vfHa_p6wH7M0cBw&expires=1607758236
+
+
+#EXTINF:-1,history
+https://espare.tk/live/historia_lat.m3u8?token=tK_PtRDisN7wIzZuniOQNQ&expires=1607758438
+
+
+#EXTINF:-1,espn extra
+https://espare.tk/live/1066.m3u8?token=_n2jADiyKwMVUnxxeeBVEA&expires=1607759268
+
+#EXTINF:-1,espn 2 mexico
+https://espare.tk/live/1064.m3u8?token=dqxOq_Hxr7hsnOJ18mDbhg&expires=1607760461
+
+#EXTINF:-1,espn mexico
+https://espare.tk/live/1063.m3u8?token=XVmSlUXKHfR7EeDL2r-szw&expires=1607760677
+
+#EXTINF:-1,espn 3 argent
+https://espare.tk/live/1011.m3u8?token=1nf91MdHMvR7ZTdquJ3SLQ&expires=1607760873
+
+#EXTINF:-1,spn ar
+https://espare.tk/live/1013.m3u8?token=8IlmJD40ODvlWfV6N4Ns4g&expires=1608157698
+
+#EXTINF:-1, gol peru
+https://2204ng.janjua.pw:8088/adfree/gotvpe/playlist.m3u8?vidictid=186121984123&pk=23fff34eddfe186f30930cbf3d20f781e3ae3905f957f89eae0405c262a56c8f&id=100813
+
+
+#EXTINF:-1,fox mexico
+https://espare.tk/live/1059.m3u8?token=nZ6T6CxRKsA318B5MEZt8g&expires=1608159016
+
+#EXTINF:-1,fox 3 
+https://espare.tk/live/1014.m3u8?token=_zqzyesbBF5-Q00sCZXZwg&expires=1608159020
+
+#EXTINF:-1,fox 2
+https://espare.tk/live/1015.m3u8?token=CPjF8nNDhYWdvTirAfZPaQ&expires=1608159810
+
+
+#EXTINF:-1,fox premiun
+https://espare.tk/live/1062.m3u8?token=-WJWvgJImLvChz4o7WAqbw&expires=1608160173
+
+#EXTINF:-1, directv sport 2
+https://e2.stephn.xyz/ingest01/68176.m3uf=Tnh4NVl4MDlDRg==&token=DS8F_qUwwsxPVRIkUe-FHA&ex
+
+
+#EXTINF:-1, liga
+https://espare.tk/live/laliga.m3u8?token=B3DY8_eGVnzvsqL1Fc6RvQ&expires=1608160959
+
+#EXTINF:-1, fox 2
+https://espare.tk/live/1015.m3u8?token=AcPrn3w6OkN_tfxPrl2xLA&expires=1608161646
+
+#EXTINF:-1, spn extra
+https://espare.tk/live/1066.m3u8?token=hRk68t9FPAu6wJ9AABdobA&expires=1608161960
+
+#EXTINF:-1, fox
+https://espare.tk/live/1016.m3u8?token=QB8g2AfIsuiatMnss4-mzg&expires=1608161982
+
+
+#EXTINF:-1,espn deportes
+https://edge3-hr.cvattv.com.ar/live/c3eds/ESPNHD/verimatrix_rotating_FTA/ESPNHD-video=345
